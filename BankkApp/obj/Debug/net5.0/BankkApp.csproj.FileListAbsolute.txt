@@ -1,0 +1,16 @@
+/Users/sude/Projects/BankkApp/BankkApp/bin/Debug/net5.0/BankkApp
+/Users/sude/Projects/BankkApp/BankkApp/bin/Debug/net5.0/BankkApp.deps.json
+/Users/sude/Projects/BankkApp/BankkApp/bin/Debug/net5.0/BankkApp.runtimeconfig.json
+/Users/sude/Projects/BankkApp/BankkApp/bin/Debug/net5.0/BankkApp.runtimeconfig.dev.json
+/Users/sude/Projects/BankkApp/BankkApp/bin/Debug/net5.0/BankkApp.dll
+/Users/sude/Projects/BankkApp/BankkApp/bin/Debug/net5.0/BankkApp.pdb
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.csproj.AssemblyReference.cache
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.AssemblyInfoInputs.cache
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.AssemblyInfo.cs
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.csproj.CoreCompileInputs.cache
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.dll
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/ref/BankkApp.dll
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.pdb
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/BankkApp.genruntimeconfig.cache
+/Users/sude/Projects/BankkApp/BankkApp/obj/Debug/net5.0/refint/BankkApp.dll
